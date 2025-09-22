@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 # Student-Crud-Project
+=======
+# student-crud-angular-django
+<<<<<<< HEAD
+=======
+>>>>>>> 2e16007 (First commit)
 
 
 
@@ -15,14 +21,22 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
+<<<<<<< HEAD
 git remote add origin https://gitlab.com/vishalingale135/student-crud-project.git
+=======
+git remote add origin https://gitlab.com/vishalingale135-group/student-crud-angular-django.git
+>>>>>>> 2e16007 (First commit)
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
+<<<<<<< HEAD
 - [ ] [Set up project integrations](https://gitlab.com/vishalingale135/student-crud-project/-/settings/integrations)
+=======
+- [ ] [Set up project integrations](https://gitlab.com/vishalingale135-group/student-crud-angular-django/-/settings/integrations)
+>>>>>>> 2e16007 (First commit)
 
 ## Collaborate with your team
 
@@ -91,3 +105,7 @@ For open source projects, say how it is licensed.
 
 ## Project status
 If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+<<<<<<< HEAD
+=======
+>>>>>>> 88399a0f8ce15d3222ccbc019ddf6af8abee73ca
+>>>>>>> 2e16007 (First commit)
